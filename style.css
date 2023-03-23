@@ -1,21 +1,20 @@
 body{
-    background-color: green;
     animation-name: animation; 
-    animation-duration: 11s;
+    animation-duration: 12s;
     animation-iteration-count: infinite; 
     animation-timing-function: linear;
 }
 
 @keyframes animation{
-    0% {background-color: rgba(0,0,255, 0.5);}
-    10% {background-color: rgba(255,0,0, 0.5);}
-    20% {background-color: rgba(0,255,0, 0.5);}
-    30% {background-color: rgba(0,0,255, 0.5);}
-    40% {background-color: rgba(255,0,0, 0.5);}
-    50% {background-color: rgba(0,255,0, 0.5);}
-    60% {background-color: rgba(0,0,255, 0.5);}
-    70% {background-color: rgba(255,0,0, 0.5);}
-    80% {background-color: rgba(0,255,0, 0.5);}
-    90% {background-color: rgba(0,0,255, 0.5);}
-    100% {background-color: rgba(255,0,0, 0.5);}
+    0% {background-color: rgba(0,255,0, 0.5);}
+    5% {background-color: rgba(255,0,0, 0.5);}
+    20% {background-color: rgba(0,0,255, 0.5);}
+    30% {background-color: rgba(255,0,0, 0.5);}
+    40% {background-color: rgba(0,255,0, 0.5);}
+    50% {background-color: rgba(0,0,255, 0.5);}
+    60% {background-color: rgba(255,0,0, 0.5);}
+    70% {background-color: rgba(0,255,0, 0.5);}
+    80% {background-color: rgba(0,0,255, 0.5);}
+    90% {background-color: rgba(255,0,0, 0.5);}
+    100% {background-color: rgba(0,255,0, 0.5);}
 }
