@@ -7,7 +7,7 @@ body{
 
 @keyframes animation{
     0% {background-color: rgba(0,255,0, 0.5);}
-    5% {background-color: rgba(255,0,0, 0.5);}
+    10% {background-color: rgba(255,0,0, 0.5);}
     20% {background-color: rgba(0,0,255, 0.5);}
     30% {background-color: rgba(255,0,0, 0.5);}
     40% {background-color: rgba(0,255,0, 0.5);}
